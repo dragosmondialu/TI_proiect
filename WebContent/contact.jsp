@@ -16,7 +16,7 @@
 	<h2> Contact </h2>
 			<div id="contact">
 				<br/>
-				BIBLIOTECA UNIVERSITĂȚII TEHNICE „I3xM” DIN IAȘI
+				BIBLIOTECA UNIVERSITĂȚII TEHNICE DIN IAȘI
 				<ul>
 					<li>Adresa: B-dul Carol I, nr. 11</li>
 					<li>700506 Iaşi, România</li>
@@ -25,10 +25,10 @@
 					<li>e-mail: library@library.i3xm.ro</li>
 				</ul>
 				<br/>
-				Director Bibliotecă - Ing. Lăcrămioara Vilanela Ofelia Chirieac
+				Director Bibliotecă - Ing. Melissa-Elena Ofelia
 				<ul>
-					<li>e-mail: lchirieac@tuiasi.ro</li>
-					<li>Biblioteca "I3xM"</li>
+					<li>e-mail: melissa@tuiasi.ro</li>
+					<li>Biblioteca INternationala"</li>
 					<li>B-dul Carol I nr.11, Iași, 700506</li>
 					<li>Tel. / Fax: +40-232-212773</li>
 					<li>Tel.: +40-232-701502</li>
