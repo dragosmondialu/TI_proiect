@@ -7,5 +7,6 @@ import javax.ws.rs.core.Application;
 // e.g., @ApplicationPath("rest") => http://localhost:8080/ProiectServiciiWeb/rest/
 @ApplicationPath("rest")
 public class MyApplication extends Application {
+	
 
 }
