@@ -29,6 +29,7 @@
 		<br>
 		<input type="submit" value="Adauga">
 		
+		
 		<!--  <table border="0">
         <tr>
             <td colspan="2"></td>
