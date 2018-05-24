@@ -130,6 +130,7 @@ public class DBManager {
             pst.executeUpdate();
             status = true;
         }
+        
         catch (Exception e) {
         	System.out.println(e);
         }/*finally {
