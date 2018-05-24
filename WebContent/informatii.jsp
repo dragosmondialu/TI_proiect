@@ -15,7 +15,7 @@
 	<div id="info">
 	<h2> Regulament </h2>
 			<p> Pentru a putea accesa colecția de cărți/materiale deținută de bibliotecă și pentru a putea beneficia de serviciile menționate în continuare, utilizatorii trebuie să se logheze în conturile personale. </p>
-			<h4>Servicii oferite de către Biblioteca „I3xM” din Iaşi</h4>
+			<h4>Servicii oferite de către Biblioteca Internationala din Iaşi</h4>
 			<br/>
 			Utilizatorii pot apela, gratuit sau contra-cost (după caz), la următoarele servicii oferite de Biblioteca Universităţii Tehnice "Gheorghe Asachi din Iaşi":
 			<ul>
