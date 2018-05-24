@@ -118,6 +118,8 @@ public class DBManager {
         return status;
         }
 	
+	
+	
 	public boolean deleteBook(String isbn){
 		boolean status = false;
 		String query = "delete from carti where isbn=?";
