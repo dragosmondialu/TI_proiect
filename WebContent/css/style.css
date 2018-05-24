@@ -1,0 +1,303 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100% 100%;
+}
+#body,#b1
+{
+	background-image: url("../images/4.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.inline{
+	position: relative;
+	margin-top: 10px;
+		color: white;
+	line-height: 25px;
+	padding: 10%;
+	text-align: justify;
+
+}
+
+#sectiune {
+    overflow: hidden;
+}
+
+#descriere {
+    float: left;
+    width: 50%;
+}
+ 
+
+#descriere{float: left;width:50%;}
+#componente{float: right;width:50%}
+
+.inlinee{
+	display:inline;
+	
+}
+.button
+{
+	text_decoration:none;
+}
+#tablee
+{
+	color:red;
+}
+header {
+	text-align:center;
+}
+#logo{
+	position: absolute;
+	cursor: pointer;
+	width: 50px;
+	height: 50px;
+}
+#header, #footer {
+    min-height: 40px;
+}
+
+nav{
+	width: 100%;
+	z-index: 99;
+	padding-top: 0%;
+	margin-top: 0;
+	border-bottom: 2px solid rgb(73, 67, 67);
+	text-decoration: none;
+	color: white;
+	text-shadow: 1px 1px #999999;
+	line-height: 50px;
+	font-size: 15px;	
+}
+
+nav:hover{
+	color: #ce8686;
+	text-shadow: 1px 1px #703d3d;
+	
+}
+#descriere{
+	position: relative;
+	margin-top: 10px;
+}
+h1{
+	color: white;
+	text-shadow: 1px 1px #999999;
+	text-align: center;
+	font-size: 55px;
+	line-height: 60px;
+}
+input#submit{
+  background:none;
+  border:none;
+  font-size:1em;
+  color:white;
+}
+.slideshow-container {
+    width: 40%;
+    float:right;
+    padding-right: 10px;
+    padding-top:0px;
+}
+#motto{
+    background-color: rgba(244, 187, 159, .5);
+	position: relative;
+	margin-top: 40px;
+	padding:10px 20px 10px 20px;
+	text-align: center;
+	font-size: 19px;
+}
+.formular{
+	width: 200px;
+	padding: 30px;
+    background: #FFFFFF;
+	margin: auto;
+	margin-top: 10%;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+    background: rgb(244, 187, 159);
+}
+
+.formular h2{
+    background: rgb(244, 187, 159);
+    text-transform: uppercase;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #797979;
+    font-size: 18px;
+    font-weight: 100;
+    padding: 20px;
+	margin: -30px -30px 30px -30px;
+}
+
+.formular input[type="text"], .formular input[type="password"]{
+    box-sizing: border-box;
+    outline: none;
+    display: block;
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border-bottom: 1px solid #ddd;
+    background: transparent;
+    margin-bottom: 10px;
+    font: 16px Arial, Helvetica, sans-serif;
+    height: 45px;
+}
+
+
+.formular input[type="submit"]{
+    background-color: #8fb0bc;
+    border: 1px solid #91b3bf;
+    display: inline-block;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 14px;
+    padding: 8px 18px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.formular input[type="submit"]:hover {
+    background:linear-gradient(to bottom, #86abb7 5%, #7395a0 100%);
+    background-color:#7295a0;
+}
+
+#tabel{
+   	padding: 20px;
+   	border-collapse: collapse;
+   	font-size: 18px;
+   	margin-left:auto; 
+ 	margin-right:auto;
+   	text-align: center;
+}
+
+#tabel th {
+    padding: 10px;
+	color: white;
+}
+
+#tabel td {
+    padding: 10px;
+	color: white;
+}
+
+#tabel tr:hover {
+    background-color: rgba(244, 187, 159, .5);
+}
+
+ input[type="submit"]{
+    background-color: rgba(153, 0, 0, .3);
+    border: 1px solid rgba(163, 62, 62, .3);
+    display: inline-block;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 14px;
+    padding: 5px 12px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 5px; 
+}
+
+ input[type="submit"]:hover {
+    background:linear-gradient(to bottom, rgb(165, 72, 72) 5%, rgb(188, 79, 79) 100%);
+    background-color:#990000;
+}
+#addButton {
+	float:left;
+	margin-left:200px;
+}
+	
+#addForm{
+	width: 250px;
+	padding: 30px;
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+    background: rgba(255,255,255,.8);
+}
+
+#addForm h2{
+    background: rgba(244, 187, 159,.7);
+    text-transform: uppercase;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #797979;
+    font-size: 18px;
+    font-weight: 100;
+    padding: 25px;
+	margin: -30px -30px 30px -30px;
+}
+
+#addForm input[type="text"]{
+    box-sizing: border-box;
+    outline: none;
+    display: block;
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border-bottom: 1px solid #797979;
+    background: transparent;
+    margin-bottom: 10px;
+    font: 16px Arial, Helvetica, sans-serif;
+    height: 45px;
+}
+
+#addForm input[type=checkbox]
+{
+  /* Double-sized Checkboxes */
+  -ms-transform: scale(1.5); /* IE */
+  -moz-transform: scale(1.5); /* FF */
+  -webkit-transform: scale(1.5); /* Safari and Chrome */
+  -o-transform: scale(1.5); /* Opera */
+  padding: 10px;
+}
+#dispon{
+	text-transform: uppercase;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #797979;
+    font-size: 18px;
+    font-weight: 100;
+}
+
+
+
+#addForm input[type="submit"]{
+    background-color: #8fb0bc;
+    border: 1px solid #91b3bf;
+    display: inline-block;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 14px;
+    padding: 8px 18px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#addForm input[type="submit"]:hover {
+    background:linear-gradient(to bottom, #86abb7 5%, #7395a0 100%);
+    background-color:#7295a0;
+}
+
+
+#info{
+	color: white;
+	padding: 40px;
+	padding-top: 20px;
+	padding-bottom: 75px;
+}
+
+#contact{
+	padding-bottom: 75px;
+	margin-left: 30px;
+}
+
+#info h2{
+	font-size: 40px;
+	text-shadow: 0.5px 0.5px #999999;
+}
+
+#info h4{
+	font-size: 25px;
+}
+
+#info p, li{
+	font-size: 17px;
+}
