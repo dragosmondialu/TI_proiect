@@ -28,6 +28,7 @@ public class GetBooks extends HttpServlet {
         super();
     }
 	
+	
 	public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 			HttpServletResponseWrapper responseWrapper = new HttpServletResponseWrapper(response) {
             private final StringWriter sw = new StringWriter();
