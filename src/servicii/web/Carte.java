@@ -17,6 +17,8 @@ public class Carte {
 		this.gen = gen;
 		this.disponibilitate = disponibilitate;
 	}
+	
+	
 	public int getId() {
 		return id;
 	}
