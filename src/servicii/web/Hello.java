@@ -22,6 +22,8 @@ import com.google.gson.Gson;
 public class Hello {
 
 	
+	
+	
 	// Metoda apelata daca tipul media cerut este TEXT_PLAIN
 	@GET
 	@Path("/1")
