@@ -12,7 +12,7 @@
 	<header>
 			<%@ include file= "menu.jsp" %>
 	</header>
-<h1>Biblioteca I3xM</h1>
+<h1>Biblioteca Internationala</h1>
 <div id="motto" style="font-family: 'Monotype Corsiva';">
 					"Biblioteca este templul învăţăturii, iar învăţătura a eliberat mai mulţi oameni decât toate războaiele din istorie." 
 					<br/>Carl Thomas Rowan
@@ -64,7 +64,7 @@
 	</div>
 
 <div class="inline"> 
-			Biblioteca I3xM este o bibliotecă publică structurată în conformitate cu profilul său enciclopedic şi are menirea de a fi la dispoziţia comunităţii prin serviciile şi programele oferite, venind în întâmpinarea nevoii de informare, educare şi recreere a cetăţenilor.
+			Biblioteca Internationala este o bibliotecă publică structurată în conformitate cu profilul său enciclopedic şi are menirea de a fi la dispoziţia comunităţii prin serviciile şi programele oferite, venind în întâmpinarea nevoii de informare, educare şi recreere a cetăţenilor.
 			<br/>
 			<br/>
 			În epoca informaţiei, totul se desfăşoară într-un ritm alert. Biblioteca, instituţie prin tradiţie conservatoare, este supusă unei presiuni sociale şi culturale intense, menirea sa ca instituţie de cultură şi educaţie fiind extinsă prin servicii moderne de informare şi consiliere.
