@@ -32,6 +32,8 @@ public class AddBookServlet extends HttpServlet{
 		ClientConfig config = new ClientConfig();
 		Client client = ClientBuilder.newClient(config);
 
+		
+		
 		MultivaluedMap<String, String> formParams = new MultivaluedHashMap();
 		formParams.putSingle("id", request.getParameter("id"));
 		formParams.putSingle("isbn", request.getParameter("isbn"));
