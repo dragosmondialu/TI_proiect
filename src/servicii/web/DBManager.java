@@ -96,6 +96,7 @@ public class DBManager {
             rs = pst.executeQuery();
             status = rs.next();
         }
+        
         catch (Exception e) {
         	System.out.println(e);
         }/*finally {
