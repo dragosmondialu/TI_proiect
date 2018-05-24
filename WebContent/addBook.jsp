@@ -27,6 +27,8 @@
 		<input type="text" name="gen" placeholder="GEN">
 		<p id="dispon">Disponibilitate: <input type="checkbox" name="disponibilitate" > </p>
 		<br>
+		
+		
 		<input type="submit" value="Adauga">
 		
 		
