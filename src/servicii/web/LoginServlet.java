@@ -38,6 +38,8 @@ public class LoginServlet extends HttpServlet{
             RequestDispatcher rd=request.getRequestDispatcher("index.jsp");  
             rd.include(request,response);  
         } 
+       
+       
 
         out.close();  
     }  
