@@ -7,6 +7,7 @@ public class Carte {
 	private String autor;
 	private String gen;
 	private boolean disponibilitate;
+	
 
 	public Carte(int id, String isbn, String titlu, String autor,
 			String gen, boolean disponibilitate) {
